@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Model files (optional - if you don't want to store large files)
+*.pkl
+*.joblib
+
+# Data files (if they contain sensitive information)
+survey.csv
+cleaned_survey.csv
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
